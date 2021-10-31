@@ -1,0 +1,16 @@
+[1025/171012.370:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: browser
+[1025/171012.513:INFO:gpu_process_host.cc(941)] [XWEB_LOG_GPU]  GPU process laucnched multi-process mode SUCCESS!!! gpu-process-pid:12236 gpu-process-sandbox:1
+[1025/171012.552:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: gpu-process
+[1025/171012.743:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: utility
+[1025/171212.600:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: gpu-process
+[1025/195354.624:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1025/202330.280:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1025/202334.576:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1025/202335.293:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1027/164321.454:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1027/164326.465:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1027/214506.220:WARNING:angle_platform_impl.cc(45)] compileToBinary(256): 
+C:\fakepath(75,10-46): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(98,10-46): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1030/174426.831:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
