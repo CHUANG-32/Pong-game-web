@@ -1882,3 +1882,453 @@ C:\fakepath(98,10-46): warning X3571: pow(f, e) will not work for negative f, us
 [1031/203056.623:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
 [1031/203057.520:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
 [1031/203100.515:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203223.596:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203227.511:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203228.609:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203230.537:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203232.573:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203235.604:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203239.600:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203240.610:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203257.527:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203300.516:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203307.547:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203314.569:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203321.607:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203326.620:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203327.523:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203330.523:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203337.551:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203344.580:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203351.605:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203557.520:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203600.545:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203607.566:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203614.592:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203757.532:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203800.542:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203807.564:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203814.590:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203821.614:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203826.622:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203827.521:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203830.540:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203837.567:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203844.593:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203851.612:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203856.624:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203857.513:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203900.512:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203907.526:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203914.551:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203921.573:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203926.584:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203927.509:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/203930.526:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/204227.530:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/204230.542:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/204237.568:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/204244.606:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/204251.637:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/204256.664:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/204257.519:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/204300.528:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/204307.551:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/204314.578:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/204321.609:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/204326.628:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/204327.521:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/204330.536:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/204427.520:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/204430.528:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/211020.884:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/211021.690:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/211023.001:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/211025.499:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/211025.618:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/211039.734:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/211050.506:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/211050.508:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/211050.508:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/211050.621:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/211052.615:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/211119.638:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/211126.644:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/211131.599:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/224324.750:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/225526.952:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/225529.948:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/225536.986:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/225537.452:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225539.015:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/225541.034:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/225541.042:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/225542.494:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225547.537:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225551.939:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/225552.586:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225554.950:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/225556.976:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/225557.630:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225558.985:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/225601.003:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/225601.011:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/225602.665:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225607.711:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225612.734:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225617.758:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225621.948:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/225622.793:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225624.956:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/225626.974:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/225627.828:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225628.995:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/225631.004:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/225631.010:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/225632.864:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225637.884:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225642.913:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225647.944:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225651.953:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/225652.965:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225654.966:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/225656.975:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/225658.004:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225659.000:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/225701.009:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/225701.016:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/225703.041:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225708.070:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225713.109:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225718.146:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225721.949:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/225723.164:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225724.960:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/225726.981:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/225728.197:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225728.992:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/225731.013:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/225731.019:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/225733.229:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225738.258:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225743.282:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225748.300:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225751.944:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/225753.328:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225754.955:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/225756.969:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/225758.356:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225758.984:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/225800.994:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/225801.001:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/225803.381:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225808.408:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225813.435:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225818.457:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225821.943:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/225823.490:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225824.957:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/225826.975:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/225828.525:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225828.996:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/225831.017:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/225831.024:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/225833.555:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225838.577:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225843.601:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225848.626:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225851.940:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/225853.650:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225854.948:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/225856.965:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/225858.671:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225858.979:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/225900.990:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/225900.995:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/225903.687:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225908.703:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225913.728:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225918.746:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225921.948:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/225923.765:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225924.961:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/225926.971:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/225928.792:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225928.985:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/225931.006:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/225931.012:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/225933.811:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225938.834:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225943.849:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225948.867:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225951.937:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/225953.894:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225954.944:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/225956.963:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/225958.921:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/225958.970:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230000.988:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230000.994:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230003.946:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230008.963:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230013.991:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230019.014:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230021.947:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230024.041:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230024.958:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230026.974:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230028.992:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230029.077:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230031.014:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230031.021:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230034.108:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230039.137:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230044.173:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230049.209:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230051.951:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230054.227:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230054.964:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230056.973:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230058.991:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230059.252:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230101.002:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230101.009:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230104.272:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230109.297:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230114.320:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230119.350:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230121.951:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230124.373:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230124.967:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1031/230126.988:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230128.999:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230129.398:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230131.012:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230131.019:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230134.432:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230139.455:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230144.479:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230149.506:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230151.939:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230154.529:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230154.952:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230156.961:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230158.979:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230159.554:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230200.987:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230201.002:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230204.584:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230209.601:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230214.622:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230219.647:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230221.953:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230224.676:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230224.959:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230226.968:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230228.984:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230229.704:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230231.000:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230231.007:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230234.734:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230239.761:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230244.789:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230249.821:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230251.942:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230254.847:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230254.958:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230256.980:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230258.994:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230259.876:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230301.007:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230301.014:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230304.910:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230309.944:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230314.955:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230319.972:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230321.946:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230324.951:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230324.987:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230326.973:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230328.982:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230330.011:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230330.990:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230331.003:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230335.033:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230340.054:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230345.068:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230350.079:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230351.946:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230354.960:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230355.102:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230356.976:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230358.996:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230400.127:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230401.011:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230401.031:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230405.143:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230410.166:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230415.176:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230420.202:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230421.940:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230424.956:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230425.232:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230426.965:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230428.985:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230430.259:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230431.002:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230431.009:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230435.291:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230440.322:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230445.348:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230450.371:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230451.950:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230454.968:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230455.395:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230456.987:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230458.994:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230500.415:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230501.012:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230501.019:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230505.442:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230510.456:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230515.485:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230520.516:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230521.951:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230524.953:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230525.540:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230526.965:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230528.980:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230530.559:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230530.986:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230530.993:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230535.586:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230540.604:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230545.633:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230550.654:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230551.952:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230554.964:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230555.672:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230556.975:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230559.116:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230600.691:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230601.147:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230601.154:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230605.720:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230610.731:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230615.765:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230620.800:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230621.946:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230624.957:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230625.829:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230626.964:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230628.975:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230630.853:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230630.993:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1031/230631.000:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230635.878:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230640.904:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230645.935:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230650.957:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230651.939:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230654.943:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230655.986:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230656.956:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230658.966:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230700.981:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230700.989:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230701.011:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230706.026:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230711.048:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230716.072:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230721.095:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230721.940:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230724.949:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230726.129:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230726.960:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230728.974:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230730.987:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230731.001:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230731.155:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230736.182:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230741.196:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230746.215:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230751.233:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230751.952:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230754.955:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230756.258:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230756.975:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230758.989:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230800.997:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230801.003:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230801.290:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230806.308:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230811.323:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230816.351:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230821.374:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230821.946:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1031/230824.962:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230826.396:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230826.973:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230828.996:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230831.004:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230831.011:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230831.424:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230836.436:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230841.453:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230846.488:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230851.510:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230851.944:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230854.960:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230856.534:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230856.971:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230858.989:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230900.999:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230901.006:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230901.556:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230906.572:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230911.594:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230916.616:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230921.647:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230921.951:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230924.958:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230926.668:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230926.968:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230928.980:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230930.990:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230930.997:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1031/230931.698:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230936.719:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230941.741:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230942.813:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230943.044:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230946.754:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230947.851:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230948.081:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230951.770:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230951.943:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230952.888:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230953.120:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230954.952:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230956.786:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230956.965:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1031/230957.927:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1031/230958.152:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1105/173316.615:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1105/173318.697:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1105/173318.775:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -103
+[1105/173320.546:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1105/173320.620:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1105/173320.716:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1105/173602.024:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1105/173602.028:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1105/173602.028:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1105/173602.029:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1105/173602.030:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1105/173602.030:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1105/173602.031:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1105/173606.311:ERROR:ssl_client_socket_impl.cc(941)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1105/192428.478:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: browser
+[1105/192429.016:INFO:gpu_process_host.cc(941)] [XWEB_LOG_GPU]  GPU process laucnched multi-process mode SUCCESS!!! gpu-process-pid:36040 gpu-process-sandbox:1
+[1105/192429.136:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: gpu-process
+[1105/192429.501:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: utility
+[1105/192629.190:INFO:crash_reporting.cc(219)] Crash reporting enabled for process: gpu-process
